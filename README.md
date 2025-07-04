@@ -35,3 +35,18 @@ Automated test that adds an item to the cart, removes it, and verifies the cart 
 ```bash
 python3 sauce_remove_from_cart.py
 ```
+
+### ✅ 3. DemoQA – Form Field Validation Test
+**Description**:  
+Automated test that fills out a contact form, submits it, and verifies that the submitted data is displayed correctly. Demonstrates ability to work with input fields, form submission, and validation.
+
+**Tech Used**:
+- Python
+- Selenium WebDriver
+- WebDriverWait
+- Assertions
+
+**How to Run**:
+```bash
+python3 form_test.py
+```
